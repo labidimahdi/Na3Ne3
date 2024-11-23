@@ -14,6 +14,7 @@ const authSlice = createSlice({
     name : 'auth',
     initialState,
     reducers : {
+        // eslint-disable-next-line no-unused-vars
         setUser:(state,action)=>{
 
         }
